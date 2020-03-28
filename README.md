@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run publish`
+
+Publish the app to GitHub Pages.<br />
+Open [homepage](https://igor-berezovchuk.github.io/react-packages) to view published application.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
